@@ -1,0 +1,81 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.vs/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# for others   #
+# ============ #
+
+*.log #log files, for some plugins
+*.pyc #python bytecode cache, for some plugins.
+sysinfo.txt #Unity3D Generated File On Crash Reports
+
+# ============================= #
+# NuGet Build Process Generated #
+# ============================= #
+/NuGet/*
+!/NuGet/BuildSource.proj
+/MRTKBuild/
+/MSBuild/
+/PackagesCopy/
+!/scripts/Packaging/NuGetRestoreProject.csproj
+
+# ========================= #
+# MSBuildForUnity generated #
+# ========================= #
+MSBuildForUnity.Common.props
+/*.msb4u.csproj.meta
+*.msb4u.csproj.meta
+/*.msb4u.sln.meta
+*.msb4u.sln.meta
+Dependencies*
+Nuget.config*
+
+# ========================= #
+#     MRTK-specific         # 
+# ========================= #
+!/Assets/MixedRealityToolkit.Providers/WindowsMixedReality/Shared/DotNetAdapter/DotNetAdapter.csproj
+Assets/MixedRealityToolkit.Providers/WindowsMixedReality/Shared/DotNetAdapter/.bin/
+Assets/MixedRealityToolkit.Providers/WindowsMixedReality/Shared/DotNetAdapter/.obj/
+
+# ============ #
+# for custom   #
+# ============ #
+App/
+UWP/
+QCAR/
+Builds/
+Logs/
+*.apk
+*OVRBuildConfig*
